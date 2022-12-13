@@ -5,21 +5,35 @@ Dataset repository available under the [CC BY 4.0](https://creativecommons.org/l
 ## Town boundaries
 ESRI shapefile boundaries for British towns
 
-### Over 5k population
-```
-    shp/town_boundaries_5k.cpg  
-    shp/town_boundaries_5k.dbf  
-    shp/town_boundaries_5k.prj
-    shp/town_boundaries_5k.shp
-    shp/town_boundaries_5k.shx```
+    town_boundaries_rural_gb.shx
+    town_boundaries_rural_gb.shp
+    town_boundaries_rural_gb.prj
+    town_boundaries_rural_gb.dbf
+    town_boundaries_rural_gb.cpg
+    town_boundaries_5k_gb.shx
+    town_boundaries_5k_gb.shp
+    town_boundaries_5k_gb.prj
+    town_boundaries_5k_gb.dbf
+    town_boundaries_5k_gb.cpg
+    town_boundaries_50k_gb.shx
+    town_boundaries_50k_gb.shp
+    town_boundaries_50k_gb.prj
+    town_boundaries_50k_gb.dbf
+    town_boundaries_50k_gb.cpg
+    town_boundaries_10k_gb.shx
+    town_boundaries_10k_gb.shp
+    town_boundaries_10k_gb.prj
+    town_boundaries_10k_gb.dbf
+    town_boundaries_10k_gb.cpg
+    town_boundaries_100k_gb.shx
+    town_boundaries_100k_gb.shp
+    town_boundaries_100k_gb.prj
+    town_boundaries_100k_gb.dbf
+    town_boundaries_100k_gb.cpg
 
-### Over 10k population
-```    
-    shp/town_boundaries_10k.cpg  
-    shp/town_boundaries_10k.dbf  
-    shp/town_boundaries_10k.prj
-    shp/town_boundaries_10k.shp
-    shp/town_boundaries_10k.shx```
 
+## Trunk roads
+ESRI shapefile points and lines for British trunk roads
 
-
+    trunk-roads_nodes_gb.zip
+    trunk-roads_ways_gb.zip
