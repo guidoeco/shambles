@@ -1,0 +1,9 @@
+BDI.zip filter=lfs diff=lfs merge=lfs -text
+GNQ.zip filter=lfs diff=lfs merge=lfs -text
+STP.zip filter=lfs diff=lfs merge=lfs -text
+GAB.zip filter=lfs diff=lfs merge=lfs -text
+TCD.zip filter=lfs diff=lfs merge=lfs -text
+CAF.zip filter=lfs diff=lfs merge=lfs -text
+CMR.zip filter=lfs diff=lfs merge=lfs -text
+COD.zip filter=lfs diff=lfs merge=lfs -text
+COG.zip filter=lfs diff=lfs merge=lfs -text
