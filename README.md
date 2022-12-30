@@ -2,6 +2,15 @@
 
 Dataset repository available under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license
 
+## Microsoft Road Detection
+
+Microsoft Bing Maps imagery has been used to identify and extract road data [here](https://github.com/microsoft/RoadDetections). As the associated files are released under the Open Data Commons [licence](https://opendatacommons.org/licenses/odbl/) and quite big and sit in a TSV GeoJSON format repository holds this road data into individual files split by country
+
+The GeoGPKG files are under [here](https://github.com/anisotropi4/shambles/tree/main/transport-network) in the following directories
+
+    CarribbeanIslands-Full
+    Europe-Full
+
 ## Town boundaries
 ESRI shapefile boundaries for British towns
 
