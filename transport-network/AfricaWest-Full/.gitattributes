@@ -1,0 +1,15 @@
+LBR.zip filter=lfs diff=lfs merge=lfs -text
+CIV.zip filter=lfs diff=lfs merge=lfs -text
+GNB.zip filter=lfs diff=lfs merge=lfs -text
+SEN.zip filter=lfs diff=lfs merge=lfs -text
+TGO.zip filter=lfs diff=lfs merge=lfs -text
+BEN.zip filter=lfs diff=lfs merge=lfs -text
+BFA.zip filter=lfs diff=lfs merge=lfs -text
+CPV.zip filter=lfs diff=lfs merge=lfs -text
+SLE.zip filter=lfs diff=lfs merge=lfs -text
+GHA.zip filter=lfs diff=lfs merge=lfs -text
+GIN.zip filter=lfs diff=lfs merge=lfs -text
+GMB.zip filter=lfs diff=lfs merge=lfs -text
+MLI.zip filter=lfs diff=lfs merge=lfs -text
+NER.zip filter=lfs diff=lfs merge=lfs -text
+NGA.zip filter=lfs diff=lfs merge=lfs -text
