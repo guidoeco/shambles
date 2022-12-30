@@ -1,0 +1,6 @@
+TUN.zip filter=lfs diff=lfs merge=lfs -text
+DZA.zip filter=lfs diff=lfs merge=lfs -text
+EGY.zip filter=lfs diff=lfs merge=lfs -text
+LBY.zip filter=lfs diff=lfs merge=lfs -text
+MAR.zip filter=lfs diff=lfs merge=lfs -text
+MRT.zip filter=lfs diff=lfs merge=lfs -text
