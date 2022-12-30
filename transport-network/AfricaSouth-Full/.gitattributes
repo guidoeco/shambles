@@ -1,0 +1,10 @@
+LSO.zip filter=lfs diff=lfs merge=lfs -text
+MOZ.zip filter=lfs diff=lfs merge=lfs -text
+MWI.zip filter=lfs diff=lfs merge=lfs -text
+SWZ.zip filter=lfs diff=lfs merge=lfs -text
+ZMB.zip filter=lfs diff=lfs merge=lfs -text
+AGO.zip filter=lfs diff=lfs merge=lfs -text
+BWA.zip filter=lfs diff=lfs merge=lfs -text
+NAM.zip filter=lfs diff=lfs merge=lfs -text
+ZAF.zip filter=lfs diff=lfs merge=lfs -text
+ZWE.zip filter=lfs diff=lfs merge=lfs -text
