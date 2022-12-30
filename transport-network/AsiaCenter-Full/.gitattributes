@@ -1,0 +1,5 @@
+KAZ.zip filter=lfs diff=lfs merge=lfs -text
+KGZ.zip filter=lfs diff=lfs merge=lfs -text
+TJK.zip filter=lfs diff=lfs merge=lfs -text
+TKM.zip filter=lfs diff=lfs merge=lfs -text
+UZB.zip filter=lfs diff=lfs merge=lfs -text
