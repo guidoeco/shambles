@@ -1,0 +1,7 @@
+HND.zip filter=lfs diff=lfs merge=lfs -text
+MEX.zip filter=lfs diff=lfs merge=lfs -text
+NIC.zip filter=lfs diff=lfs merge=lfs -text
+PAN.zip filter=lfs diff=lfs merge=lfs -text
+SLV.zip filter=lfs diff=lfs merge=lfs -text
+CRI.zip filter=lfs diff=lfs merge=lfs -text
+GTM.zip filter=lfs diff=lfs merge=lfs -text
