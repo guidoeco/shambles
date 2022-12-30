@@ -1,0 +1,14 @@
+RWA.zip filter=lfs diff=lfs merge=lfs -text
+SDN.zip filter=lfs diff=lfs merge=lfs -text
+SSD.zip filter=lfs diff=lfs merge=lfs -text
+UGA.zip filter=lfs diff=lfs merge=lfs -text
+KEN.zip filter=lfs diff=lfs merge=lfs -text
+SOM.zip filter=lfs diff=lfs merge=lfs -text
+SYC.zip filter=lfs diff=lfs merge=lfs -text
+ETH.zip filter=lfs diff=lfs merge=lfs -text
+MDG.zip filter=lfs diff=lfs merge=lfs -text
+MUS.zip filter=lfs diff=lfs merge=lfs -text
+COM.zip filter=lfs diff=lfs merge=lfs -text
+DJI.zip filter=lfs diff=lfs merge=lfs -text
+ERI.zip filter=lfs diff=lfs merge=lfs -text
+TZA.zip filter=lfs diff=lfs merge=lfs -text
