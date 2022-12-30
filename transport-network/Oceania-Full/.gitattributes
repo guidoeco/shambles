@@ -1,0 +1,14 @@
+PNG.zip filter=lfs diff=lfs merge=lfs -text
+TON.zip filter=lfs diff=lfs merge=lfs -text
+TUV.zip filter=lfs diff=lfs merge=lfs -text
+FJI.zip filter=lfs diff=lfs merge=lfs -text
+MHL.zip filter=lfs diff=lfs merge=lfs -text
+NZL.zip filter=lfs diff=lfs merge=lfs -text
+VUT.zip filter=lfs diff=lfs merge=lfs -text
+AUS.zip filter=lfs diff=lfs merge=lfs -text
+FSM.zip filter=lfs diff=lfs merge=lfs -text
+PLW.zip filter=lfs diff=lfs merge=lfs -text
+SLB.zip filter=lfs diff=lfs merge=lfs -text
+KIR.zip filter=lfs diff=lfs merge=lfs -text
+NRU.zip filter=lfs diff=lfs merge=lfs -text
+WSM.zip filter=lfs diff=lfs merge=lfs -text
