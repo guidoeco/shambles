@@ -1,0 +1,12 @@
+BRN.zip filter=lfs diff=lfs merge=lfs -text
+MMR.zip filter=lfs diff=lfs merge=lfs -text
+MYS.zip filter=lfs diff=lfs merge=lfs -text
+SGP.zip filter=lfs diff=lfs merge=lfs -text
+TLS.zip filter=lfs diff=lfs merge=lfs -text
+TWN.zip filter=lfs diff=lfs merge=lfs -text
+VNM.zip filter=lfs diff=lfs merge=lfs -text
+IDN.zip filter=lfs diff=lfs merge=lfs -text
+KHM.zip filter=lfs diff=lfs merge=lfs -text
+LAO.zip filter=lfs diff=lfs merge=lfs -text
+PHL.zip filter=lfs diff=lfs merge=lfs -text
+THA.zip filter=lfs diff=lfs merge=lfs -text
