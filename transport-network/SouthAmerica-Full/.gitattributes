@@ -1,0 +1,15 @@
+BOL.zip filter=lfs diff=lfs merge=lfs -text
+CHL.zip filter=lfs diff=lfs merge=lfs -text
+PER.zip filter=lfs diff=lfs merge=lfs -text
+SUR.zip filter=lfs diff=lfs merge=lfs -text
+SGS.zip filter=lfs diff=lfs merge=lfs -text
+ARG.zip filter=lfs diff=lfs merge=lfs -text
+BRA.zip filter=lfs diff=lfs merge=lfs -text
+COL.zip filter=lfs diff=lfs merge=lfs -text
+GUF.zip filter=lfs diff=lfs merge=lfs -text
+GUY.zip filter=lfs diff=lfs merge=lfs -text
+VEN.zip filter=lfs diff=lfs merge=lfs -text
+ECU.zip filter=lfs diff=lfs merge=lfs -text
+FLK.zip filter=lfs diff=lfs merge=lfs -text
+PRY.zip filter=lfs diff=lfs merge=lfs -text
+URY.zip filter=lfs diff=lfs merge=lfs -text
