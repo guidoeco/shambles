@@ -28,26 +28,6 @@ The GeoGPKG files are under [here](https://github.com/anisotropi4/shambles/tree/
 |South America|Available|[SouthAmerica-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/SouthAmerica-Full)|currently hosted|
 |USA|Available||fix required, not hosted|
 
-
-    AfricaCenter-Full
-    AfricaEast-Full
-    AfricaNorth-Full
-    AfricaSouth-Full
-    AfricaWest-Full
-    AmericaCenter-Full
-    AsiaCenter-Full
-    AsiaNorth-Full
-    AsiaSouthEast-Full
-    AsiaSouth-Full
-    Canada-Full
-    CaribbeanIslands-Full
-    Europe-Full
-    MiddleEast-Full
-    Oceania-Full
-    SouthAmerica-Full
-    USA
-
-
 ## Town boundaries
 ESRI shapefile boundaries for British towns
 
