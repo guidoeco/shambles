@@ -8,8 +8,45 @@ Microsoft Bing Maps imagery has been used to identify and extract road data [her
 
 The GeoGPKG files are under [here](https://github.com/anisotropi4/shambles/tree/main/transport-network) in the following directories
 
-    CarribbeanIslands-Full
+| Region | Status | Link |Note|
+|--------|--------|------|----|
+|Africa Center|Available|[AfricaCenter-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/AfricaCenter-Full)|currently hosted|
+|Africa East|Available|[AfricaEast-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/AfricaEast-Full)|currently hosted|
+|Africa North|Available|[AfricaNorth-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/AfricaNorth-Full)|currently hosted|
+|Africa South|Available|[AfricaSouth-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/AfricaSouth-Full)|currently hosted|
+|Africa West|Available|[AfricaWest-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/AfricaWest-Full)|currently hosted|
+|America Center|Available|[AmericaCenter-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/AmericaCenter-Full)|currently hosted|
+|Asia Center|Available|[AsiaCenter-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/AsiaCenter-Full)|currently hosted|
+|Asia North|Available||not hosted|
+|Asia South East|Available|[AsiaSouthEast-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/AsiaSouthEast-Full)|currently hosted|
+|Asia South|Available||not hosted|
+|Canada|Available|[Canada-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/Canada-Full)|currently hosted|
+|Caribbean Islands|Available|[CaribbeanIslands-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/CaribbeanIslands-Full)|currently hosted|
+|Europe|Available|[Europe-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/Europe-Full)|inconsistent, currently hosted|
+|Middle East|Available|[MiddleEast-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/MiddleEast-Full)|currently hosted|
+|Oceania|Available|[Oceania-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/Oceania-Full)|currently hosted|
+|South America|Available|[SouthAmerica-Full](https://github.com/anisotropi4/shambles/tree/main/transport-network/SouthAmerica-Full)|currently hosted|
+|USA|Available||fix required, not hosted|
+
+
+    AfricaCenter-Full
+    AfricaEast-Full
+    AfricaNorth-Full
+    AfricaSouth-Full
+    AfricaWest-Full
+    AmericaCenter-Full
+    AsiaCenter-Full
+    AsiaNorth-Full
+    AsiaSouthEast-Full
+    AsiaSouth-Full
+    Canada-Full
+    CaribbeanIslands-Full
     Europe-Full
+    MiddleEast-Full
+    Oceania-Full
+    SouthAmerica-Full
+    USA
+
 
 ## Town boundaries
 ESRI shapefile boundaries for British towns
